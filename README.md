@@ -80,7 +80,7 @@
           <p>&copy; 2023 digital market</p>
           <nav>
             <a href="#">Home</a>
-            <a href="#">Movies</a>
+            <a href="./movie.html">Movies</a>
             <a href="#">About Us</a>
             <a href="./login.html">Contact Us</a>
           </nav>
